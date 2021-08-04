@@ -1,0 +1,16 @@
+<suite name = "LSCP Test Automation suite">
+
+<test name = "LSCP APP Test">
+
+<classes>
+<class name = "com.lscp.qa.testcases.LoginPageTest"/>
+<class name = "com.lscp.qa.testcases.HomePageTest"/>
+<class name = "com.lscp.qa.testcases.Admin_PageTest"/>
+<class name = "com.lscp.qa.testcases.Search_PageTest"/>
+
+
+
+</classes>
+
+</test>
+</suite>
